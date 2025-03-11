@@ -4,3 +4,5 @@ _targets
 .Rhistory
 .RData
 .DS_Store
+renv/
+.Rprofile
